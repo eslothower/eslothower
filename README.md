@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that will make the world a better place and fights towards the better future of tomorrow.
 - 📫 How to reach me: 
 	- Email: to be determined. 
-	- LinkedIn: https://www.linkedin.com/in/eli-slothower-078896221
+	- LinkedIn: https://www.linkedin.com/in/eli-slothower
 	- Handshake: 
 
 <!---
