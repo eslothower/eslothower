@@ -3,7 +3,7 @@
 - 🌱 I’m currently working at Playspaces as Creative Technologist, helping inspire creativity and imagination in today's youth. 
 - 🤝 I’m looking to collaborate on anything that will make the world a better place and fights towards the better future of tomorrow.
 - 📫 How to reach me: 
-	- Email: contact@elislothower.com
+	- Email: eslothow@andrew.cmu.edu
 	- LinkedIn: https://www.linkedin.com/in/eli-slothower
 
 <!---
