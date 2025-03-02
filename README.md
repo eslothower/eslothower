@@ -4,7 +4,7 @@ I'm a **senior at Carnegie Mellon University**, majoring in **Computer Science**
 
 
 ## Visit My Portfolio Site  
-[<img src="https://github.com/eslothower/eslothower/blob/main/main_img.png" style="width: 475px" alt="Portfolio" width="250">](https://www.elislothower.com)  
+[<img src="https://github.com/eslothower/eslothower/blob/main/github_website_img.png" style="width: 475px" alt="Portfolio" width="250">](https://www.elislothower.com)  
 
 
 
