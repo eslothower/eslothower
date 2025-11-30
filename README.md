@@ -3,7 +3,7 @@
 I’m a Software Engineer at Lockheed Martin Space working on a classified program under the National Security Space division. I have my Bachelor of Science in Computer Science from Carnegie Mellon University. I aim to advance science, tackle complex challenges, and constantly learn. I plan on pursuing a PhD in Computer Science/Machine Learning in the near future.
 
 ## Visit My Portfolio Site  
-[<img src="https://github.com/eslothower/eslothower/blob/main/github_website_img.png" style="width: 475px" alt="Portfolio" width="250">](https://www.elislothower.com)  
+[<img src="https://github.com/eslothower/eslothower/blob/main/website_img.png" style="width: 475px" alt="Portfolio" width="250">](https://www.elislothower.com)  
 
 
 ## Current Projects
