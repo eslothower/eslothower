@@ -1,6 +1,6 @@
-## Hi, I'm Eli. I create things.  
+## Hi, I'm Eli.
 
-I'm a **Software Engineer** at **Lockheed Martin Space** working on really cool outer space projects. I graduated with a Bachelor's of Science in Computer Science from *Carnegie Mellon University*.  I'm always excited to work on projects that **make the world a better place** and contribute to a **brighter future**, so make sure to reach out!
+I’m a Software Engineer at Lockheed Martin Space working on a classified program under the National Security Space division. I have my Bachelor of Science in Computer Science from Carnegie Mellon University. I aim to advance science, tackle complex challenges, and constantly learn. I plan on pursuing a PhD in Computer Science/Machine Learning in the near future.
 
 ## Visit My Portfolio Site  
 [<img src="https://github.com/eslothower/eslothower/blob/main/github_website_img.png" style="width: 475px" alt="Portfolio" width="250">](https://www.elislothower.com)  
@@ -8,12 +8,12 @@ I'm a **Software Engineer** at **Lockheed Martin Space** working on really cool 
 
 ## Current Projects
 - 🎓 Researching bias and discrimination in generative AI image models under the guidance of Professor Adam Perer at Carnegie Mellon University.
-- 🎮 Designing and developing an original video game from the ground up.
+- 🎮 Designing and developing an iOS app that bridges the many different music services.
 
 ## About Me  
-- **📚 Interests:** Mathematics, C, Python, simulating ecosystems, and solving hard and interesting problems with computer science.  
-- **💡 Passions:** Game design & development, learning Spanish, meeting new people, kayaking, and making a difference through **Habitat for Humanity**.  
-- **🌱 Currently Working On:** Advanced algorithm design, research in detecting bias in generative AI image models, government space projects with Lockheed Martin Space, my own video game, and more.  
+- **📚 Interests:** Mathematics, C, Python, simulating ecosystems, iOS development, and solving interesting problems with computer science.  
+- **💡 Passions:** Pottery, learning Spanish, meeting new people, kayaking, travelling, and conducting computer science research.  
+- **🌱 Currently Working On:** Research in auditing and detecting bias in generative AI image models, United States government outer space projects with Lockheed Martin Space, building my own iOS app that helps bridge the numerous music services, and more.  
 - **🤝 Open to Collaborations:** Reach out!
 
 
